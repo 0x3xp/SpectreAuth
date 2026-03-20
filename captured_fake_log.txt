@@ -1,0 +1,4 @@
+--- New Capture: 2026-03-20 22:45:12.883410 ---
+Access Token: ya29.a0AfH6S_REDACTED_EXAMPLE_TOKEN_v4_7xQ9zL2mP8nB4vKjR0sW1tYcXzA5gH7jK9lM0nP2rS4tU6vW8xZ1y3a5b7c9d1e3f5g7h9i1j3k5l7m9n1o3p5q7r9s1t3u5v7w9x1y3z5a7b9c1d3e5f7g9h1i3j5k7l9m1n3o5p7q9s1
+Refresh Token: 1//0g_FAKE_REFRESH_TOKEN_FOR_DEMO_PURPOSES_ONLY_NwF-L9IrkWswQ4xj2EFqfG6avpkmKxi77RHQMC6gd9BSi0NPaoNt5RDbduLncX2fc17bNdPisyY
+============================================================
